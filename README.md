@@ -1,1 +1,1 @@
-# X-Axis-Tick-Manipulation
+# X-Axis Tick Manipulation
